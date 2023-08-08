@@ -10,13 +10,13 @@ const Contact = () => {
             <p className='text-4xl font-bold inline border-b-4 border-[#c28616] text-gray-300'>Contact</p>
 
 
-            <p className='text-gray-300 py-5'> As I embark on my journey as a full-stack web developer, I am eager to connect with mentors, peers, and potential employers who share my enthusiasm for web development. If you are looking for a dedicated and hardworking team member who is eager to learn and grow, I'd love to be a part of your team or collaborate on exciting projects.
+            <p className='text-gray-300 py-5 text-xl'> As I embark on my journey as a full-stack web developer, I am eager to connect with mentors, peers, and potential employers who share my enthusiasm for web development. If you are looking for a dedicated and hardworking team member who is eager to learn and grow, I'd love to be a part of your team or collaborate on exciting projects.
 
               Thank you for visiting my portfolio website. I look forward to exploring opportunities and contributing my skills and passion to make a positive impact in the tech world!</p>
-            <p className='text-gray-300 py-5'>Submit the form below or send me an email directly - lauren.smi001@gmail.com.</p>
+            <p className='text-gray-300 py-5 text-xl'>Submit the form below or send me an email directly - lauren.smi001@gmail.com.</p>
           </div>
 
-          <div className='text-[#c28616] py-6'>
+          <div className='text-[#c28616] py-6 text-xl'>
             <a href="https://drive.google.com/file/d/1qA9p5S7GShBuyWW-EBnssyfMW-c84s64/view?usp=sharing" download>
               Download My Resume
             </a>

@@ -21,8 +21,8 @@ const Skills = () => {
            
             <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center py-16'>
                 <div>
-                    <p className='text-4xl font-bold inline border-b-4 border-[#f7ab49]'>Skills</p>
-                    <p className='py-4'> Technologies I've worked with</p>
+                    <p className='text-4xl text-gray-300 font-bold inline border-b-4 border-[#f7ab49]'>Skills</p>
+                    <p className='py-4 text-gray-300 text-xl'> Technologies I've worked with</p>
                 </div>
                 
 
