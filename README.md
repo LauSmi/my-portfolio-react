@@ -38,6 +38,6 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 ## Links 
 * <a href="https://github.com/LauSmi/my-portfolio-react">GitHub</a>
-* <a href="/">GitHub Pages Website</a>
+* <a href="https://lausmi.github.io/my-portfolio-react/">GitHub Pages Website</a>
 
 
